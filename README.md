@@ -16,21 +16,12 @@ Base Network of 192.168.1.0
 
 Subnets = 3 
 
-2^n = 3
-
-n = 2 (borrowing two bits)
-
-.11000000
-
-2^6 + 2^7 = 192
-
-Mask: 255.255.255.192
-
-Block Size = 64
 
 
-192.168.1.0/26
-255.255.255.192/26
+192.168.1.0/26<br><br>
+255.255.255.192/26<br><br>
+<br><br>
+
 
 
 Subnet 1
@@ -39,16 +30,20 @@ Network ID:192.168.1.0
 
 Broadcast ID:192.168.1.63
 
-Usable IPs:192.168.1.1 - 192.168.1.62
+Usable IPs:192.168.1.1 - 192.168.1.62<br><br>
+<br><br>
 
 
-Subnet 2 
+
+Subnet 2
 
 Network ID:192.168.1.64
 
 Broadcast ID:192.168.1.127
 
-Usable IPs:192.168.1.65 - 192.168.1.126
+Usable IPs:192.168.1.65 - 192.168.1.126<br><br>
+<br><br>
+
 
 
 Subnet 3 
