@@ -9,6 +9,12 @@
 5. Host devices in the network are required to obtain IPv4 address automatically
 
 6. Devices in all the departments are required to communicate automatically
+/n
+/n
+/n
+/n
+
+
 
 
 
