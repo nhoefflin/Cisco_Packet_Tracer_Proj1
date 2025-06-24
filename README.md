@@ -8,7 +8,9 @@
 
 5. Host devices in the network are required to obtain IPv4 address automatically
 
-6. Devices in all the departments are required to communicate automatically<br><br>  
+6. Devices in all the departments are required to communicate automatically<br><br> 
+<br><br>
+<br><br> 
   
 Base Network of 192.168.1.0
 
