@@ -1,3 +1,6 @@
+![image alt](https://github.com/nhoefflin/Cisco_Packet_Tracer_Proj1/blob/3ea9a89b1784298a56896c522d7f530344aacee2/ClassC_3subs.jpg)
+<br><br>
+<br><br>
 1. One router and one switch to be used 
 
 2. 3 departments (Admin/IT, Finance/HR, Customer service/reception
